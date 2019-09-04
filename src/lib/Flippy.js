@@ -1,6 +1,5 @@
 import React from 'react';
 import FlippyFooter from './FlippyFooter';
-import './styles.css';
 
 export default class Flippy extends React.Component {
   constructor(props) {
